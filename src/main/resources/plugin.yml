@@ -1,0 +1,5 @@
+name: Dumb
+version: 1.0
+main: com.skitbet.dumbplugin.DumbPlugin
+commands:
+  sheep:
